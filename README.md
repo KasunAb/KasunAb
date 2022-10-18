@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kasun Abegunawardhana</h1>
 <h3 align="center">A passionate developer from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunab&label=Profile%20views&color=0e75b6&style=flat" alt="kasunab" /> </p>
+- 🔭 I’m currently working on **.....**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunab" alt="kasunab" /></a> </p>
+- 🌱 I’m currently learning **....**
+
+- 👯 I’m looking to collaborate on **....**
+
+- 👨‍💻 All of my projects are available at [....](....)
+
+- 📝 I regularly write articles on [....](....)
+
+- 💬 Ask me about **.....**
+
+- 📫 How to reach me **kasunabegunawardhana.19@cse.mrt.ac.lk**
+
+- 📄 Know about my experiences [....](....)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
