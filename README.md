@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kasun Abegunawardhana</h1>
 <h3 align="center">A passionate developer from Sri lanka</h3>
 
-- 🔭 I’m currently working on **.....**
+- 🔭 I’m currently working on Anomaly Detection System
 
-- 🌱 I’m currently learning **....**
+- 🌱 I’m currently learning PowerBI 
 
-- 👯 I’m looking to collaborate on **....**
-
-- 👨‍💻 All of my projects are available at [....](....)
-
-- 📝 I regularly write articles on [....](....)
-
-- 💬 Ask me about **.....**
+- 👨‍💻 All of my projects are available at Here
 
 - 📫 How to reach me **kasunabegunawardhana.19@cse.mrt.ac.lk**
-
-- 📄 Know about my experiences [....](....)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
