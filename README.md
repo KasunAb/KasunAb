@@ -2,12 +2,12 @@
 <h3 align="center">🌟 A dedicated developer from Sri Lanka diving deep into Blockchain and Machine Learning 🚀</h3>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9L8wGG4MINh/giphy.gif" width="250px">
+    <iframe src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg">via GIPHY</a></p>
 </p>
 
-- 🏆 Currently mastering: **Anomaly Detection System**
-- 📘 Learning: **PowerBI**
-- 🚀 All of my projects and learnings: **[Here](#)** *(replace `#` with the link to your projects)*
+- 🏆 Currently mastering: **Avalanche Blockchain**
+- 📘 Learning: **Computer science and Engineering**
+- 🚀 All of my projects and learnings: **[Here](#)**
 - 📩 Reach out to me: **kasunabegunawardhana.19@cse.mrt.ac.lk**
 
 <h3 align="center">🌍 Connect with me:</h3>
