@@ -2,7 +2,7 @@
 <h3 align="center">🌟 A dedicated developer from Sri Lanka diving deep into Blockchain and Machine Learning 🚀</h3>
 
 <p align="center">
-    <iframe src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg">via GIPHY</a></p>
+        <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="250px">
 </p>
 
 - 🏆 Currently mastering: **Avalanche Blockchain**
