@@ -5,7 +5,7 @@
         <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="250px">
 </p>
 
-- 🏆 Currently mastering: **Avalanche Blockchain**
+- 🏆 Currently mastering: **Avalanche Blockchain**, **SaaS**, **Onchain Analysis**, **Anomaly Detection**
 - 📘 Learning: **Computer science and Engineering**
 - 🚀 All of my projects and learnings: **[Here](#)**
 - 📩 Reach out to me: **kasunabegunawardhana.19@cse.mrt.ac.lk**
