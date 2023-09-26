@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kasun Abegunawardhana 👋</h1>
-<h3 align="center">🌟 A dedicated developer from Sri Lanka diving deep into Blockchain and Machine Learning 🚀</h3>
+<h3 align="center">🌟 A dedicated developer diving deep into Blockchain and Machine Learning 🚀</h3>
 
 <p align="center">
         <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="250px">
